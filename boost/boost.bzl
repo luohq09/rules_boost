@@ -133,6 +133,6 @@ def boost_deps():
             sha256 = "9a2c2819310839ea373f42d69e733c339b4e9a19deab6bfec448281554aa4dbb",
             strip_prefix = "boost_1_69_0",
             urls = [
-                "//sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz"
+                "https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz"
             ],
         )
